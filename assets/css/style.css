@@ -37,8 +37,31 @@ h6 {
 
 .profile-img {
   width: 155px !important;
+} 
+
+.media {
+  margin-top: 100px !important;
 }
 
+.media .media-h4 {
+  margin-left: 135px !important;
+  margin-bottom: 25px !important;
+  border-bottom: 2px solid #149ddd;
+  width: 70px !important;
+  padding: 0 !important;
+}
+      
+.media a i {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.media a i:hover {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 35px;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
